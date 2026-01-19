@@ -1,1 +1,1 @@
-# Nobita2
+GUI - Con lac nguoc Cart-pole 
